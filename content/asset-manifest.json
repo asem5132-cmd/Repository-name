@@ -1,0 +1,262 @@
+{
+  "prime-hero": {
+    "width": 1127,
+    "height": 1409,
+    "source": {
+      "page": 3,
+      "xref": 26
+    }
+  },
+  "prime-investment": {
+    "width": 547,
+    "height": 683,
+    "source": {
+      "page": 4,
+      "xref": 49
+    }
+  },
+  "prime-location": {
+    "width": 544,
+    "height": 680,
+    "source": {
+      "page": 4,
+      "xref": 50
+    }
+  },
+  "prime-seaview": {
+    "width": 544,
+    "height": 680,
+    "source": {
+      "page": 4,
+      "xref": 51
+    }
+  },
+  "prime-returns": {
+    "width": 544,
+    "height": 680,
+    "source": {
+      "page": 4,
+      "xref": 52
+    }
+  },
+  "prime-lifestyle": {
+    "width": 1122,
+    "height": 1402,
+    "source": {
+      "page": 4,
+      "xref": 53
+    }
+  },
+  "troy-hero": {
+    "width": 1122,
+    "height": 1402,
+    "source": {
+      "page": 5,
+      "xref": 75
+    }
+  },
+  "troy-sign": {
+    "width": 952,
+    "height": 677,
+    "source": {
+      "page": 6,
+      "xref": 140
+    }
+  },
+  "troy-cards": {
+    "width": 951,
+    "height": 677,
+    "source": {
+      "page": 6,
+      "xref": 141
+    }
+  },
+  "troy-investment": {
+    "width": 705,
+    "height": 705,
+    "source": {
+      "page": 6,
+      "xref": 142
+    }
+  },
+  "troy-villa": {
+    "width": 705,
+    "height": 705,
+    "source": {
+      "page": 6,
+      "xref": 143
+    }
+  },
+  "troy-workers": {
+    "width": 704,
+    "height": 704,
+    "source": {
+      "page": 6,
+      "xref": 144
+    }
+  },
+  "advertising-overview": {
+    "width": 1800,
+    "height": 1007,
+    "source": {
+      "page": 9,
+      "xref": 170
+    }
+  },
+  "outdoor-overview": {
+    "width": 1800,
+    "height": 1007,
+    "source": {
+      "page": 10,
+      "xref": 182
+    }
+  },
+  "brand-print-overview": {
+    "width": 1800,
+    "height": 1007,
+    "source": {
+      "page": 11,
+      "xref": 194
+    }
+  },
+  "athar-logo": {
+    "width": 973,
+    "height": 891,
+    "source": {
+      "page": 8,
+      "xref": 165,
+      "crop_fraction": [
+        0.031,
+        0.011,
+        0.309,
+        0.477
+      ]
+    }
+  },
+  "athar-pattern": {
+    "width": 973,
+    "height": 891,
+    "source": {
+      "page": 8,
+      "xref": 165,
+      "crop_fraction": [
+        0.351,
+        0.011,
+        0.629,
+        0.477
+      ]
+    }
+  },
+  "athar-bag": {
+    "width": 1029,
+    "height": 891,
+    "source": {
+      "page": 8,
+      "xref": 165,
+      "crop_fraction": [
+        0.671,
+        0.011,
+        0.965,
+        0.477
+      ]
+    }
+  },
+  "athar-cards": {
+    "width": 969,
+    "height": 883,
+    "source": {
+      "page": 8,
+      "xref": 165,
+      "crop_fraction": [
+        0.032,
+        0.52,
+        0.309,
+        0.982
+      ]
+    }
+  },
+  "athar-perfume": {
+    "width": 969,
+    "height": 883,
+    "source": {
+      "page": 8,
+      "xref": 165,
+      "crop_fraction": [
+        0.352,
+        0.52,
+        0.629,
+        0.982
+      ]
+    }
+  },
+  "athar-packaging": {
+    "width": 1029,
+    "height": 883,
+    "source": {
+      "page": 8,
+      "xref": 165,
+      "crop_fraction": [
+        0.671,
+        0.52,
+        0.965,
+        0.982
+      ]
+    }
+  },
+  "nova-billboard": {
+    "width": 1331,
+    "height": 793,
+    "source": {
+      "page": 10,
+      "xref": 182,
+      "crop_fraction": [
+        0.011,
+        0.021,
+        0.437,
+        0.475
+      ]
+    }
+  },
+  "nova-bus-stop": {
+    "width": 1075,
+    "height": 776,
+    "source": {
+      "page": 10,
+      "xref": 182,
+      "crop_fraction": [
+        0.011,
+        0.54,
+        0.355,
+        0.984
+      ]
+    }
+  },
+  "nova-street": {
+    "width": 1140,
+    "height": 773,
+    "source": {
+      "page": 10,
+      "xref": 182,
+      "crop_fraction": [
+        0.622,
+        0.542,
+        0.987,
+        0.984
+      ]
+    }
+  },
+  "travel-brochure": {
+    "width": 728,
+    "height": 793,
+    "source": {
+      "page": 10,
+      "xref": 182,
+      "crop_fraction": [
+        0.754,
+        0.021,
+        0.987,
+        0.475
+      ]
+    }
+  }
+}
