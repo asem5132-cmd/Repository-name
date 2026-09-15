@@ -3,7 +3,7 @@ import './globals.css';
 export const metadata = {
   metadataBase: new URL('https://mohammed-amin-design.shrfaldynmhmd359.workers.dev'),
   verification: {
-    google: 'pzMTyxHklb1pBXdxnzsz-usp3o7Sq-HvS_jbTYyih6I',
+    google: 'pzMTyxHkIb1pBXdxnzsz-usp3o7Sq-HvS_jbTYyih6I',
   },
 };
 
